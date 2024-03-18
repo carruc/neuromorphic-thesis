@@ -47,11 +47,9 @@
             "id": "da126ded67612b21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Neuromorphic Technology in Europe.md",
-                "mode": "source",
-                "source": false
+                "file": "Neuromorphic Technology in Europe/Neurons.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic Technology in Europe.md",
+                "file": "Neuromorphic Technology in Europe/Neurons.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic Technology in Europe.md",
+                "file": "Neuromorphic Technology in Europe/Neurons.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic Technology in Europe.md"
+                "file": "Neuromorphic Technology in Europe/Neurons.png"
               }
             }
           }
@@ -183,11 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da126ded67612b21",
+  "active": "28a1f70e1f8ea599",
   "lastOpenFiles": [
-    "Pasted image 20240318165805.png",
-    "Neuromorphic Technology in Europe/Key Applications.md",
     "Neuromorphic Technology in Europe.md",
+    "Neuromorphic Technology in Europe/Neurons.png",
+    "Neuromorphic Technology in Europe/Key Applications.md",
     "Neuromorphic Technology in Europe/Main Paradigms.md",
     "Neuromorphic Technology in Europe/Technological Enablers.md",
     "Neuromorphic Technology in Europe/Main Challenges.md",
