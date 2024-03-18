@@ -1,0 +1,1 @@
+New materials, such as 2D materials, nanowires, and organic materials, are being explored for use in neuromorphic devices. These materials offer potential advantages in terms of performance, power consumption, and cost.

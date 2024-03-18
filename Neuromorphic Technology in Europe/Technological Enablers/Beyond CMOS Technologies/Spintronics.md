@@ -1,0 +1,1 @@
+Spintronics devices use the spin of electrons to store and process information. They are being investigated for use in neuromorphic computing, as they offer potential advantages in terms of speed, power consumption, and non-volatility.

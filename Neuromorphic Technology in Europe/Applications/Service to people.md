@@ -1,0 +1,1 @@
+Enable always-on detection systems for voice, speech, and keyword detection, facilitating natural language processing and more efficient personal assistants.

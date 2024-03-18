@@ -1,0 +1,1 @@
+The stochastic, volatile and non-linear properties of [[Memresistive devices]] technologies are exploited to emulate neuronal behavior.

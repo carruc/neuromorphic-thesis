@@ -1,0 +1,1 @@
+Simulate biological neural networks to contribute to understanding the brain and intelligent behavior, leading to novel treatments for neurological diseases.

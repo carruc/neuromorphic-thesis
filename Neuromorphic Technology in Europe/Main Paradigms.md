@@ -1,0 +1,8 @@
+- [[Efficient vs Power Hungry]]
+- [[Parallel vs Sequential]]
+- [[In-memory Computing vs Von Neumann Architecture]]
+- [[Plastic vs Rigid]]
+- [[Analogue vs Digital]]
+- [[Dynamic vs Static]]
+- [[Spiking vs Clocked]]
+- [[Stochastic vs Exact]]

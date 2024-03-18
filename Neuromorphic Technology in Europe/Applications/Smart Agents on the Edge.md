@@ -1,0 +1,1 @@
+Enable embedded and always-on processing with low power consumption; offer continuous learning and adaptation to different environments; provide smart distributed local processing with faster responses and enhanced security.

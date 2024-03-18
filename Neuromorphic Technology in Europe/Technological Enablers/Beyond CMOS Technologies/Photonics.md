@@ -1,0 +1,1 @@
+Photonic devices use light to store and process information. They are being investigated for use in neuromorphic computing, as they offer potential advantages in terms of speed, power consumption, and parallelism.
